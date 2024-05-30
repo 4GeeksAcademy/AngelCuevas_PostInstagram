@@ -43,7 +43,7 @@ h2 {
 }
 #puntos {
     font-size: xx-large;
-    color: grey;
+    color: black;
     margin-left: 510px;
     margin-top: -50px;
 }
@@ -51,7 +51,7 @@ h2 {
     box-sizing: content-box;  
     width: 527px;
     height: 160px;
-     margin-top: 371px;
+     margin-top: 367px;
      padding-bottom: 45px;
      padding-top: 7px;
      margin-left: 0px;
@@ -64,12 +64,12 @@ h2 {
     box-sizing: content-box;
     width: 532px;
     height: 360px;
-    margin-top: 2px;
+    margin-top: 0px;
     margin-left: -118px;
 }
 .iconoinsta{
     font-size: xx-large;
-color: blue;
+color:black;
 margin-left: 10px;
 padding-top: 7px;
 }
@@ -86,4 +86,8 @@ padding-top: 7px;
 #save {
    
    margin-left: 400px;
+}
+#textcoment{
+    margin-left: 5px;
+    margin-right: 5px;
 }
