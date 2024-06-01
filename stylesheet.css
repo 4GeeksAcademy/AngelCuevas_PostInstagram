@@ -1,96 +1,86 @@
-
 body {
-    background-color:rgb(8, 7, 7);
-    margin: 0;
+    background-color: rgb(8, 7, 7);
+    
 }
 
+.principal {
+    margin: auto;
+    width: 40%;
 
+}
 
 h1 {
-    margin-left: 450px;
-    margin-top: 10px;
+    
     font-size: medium;
 
 }
+
 h2 {
-    font-size:medium;
-    
+    font-size: medium;
+
 }
 
-.feedprincipal{
-    box-sizing: content-box;  
-  width: 200px;
-  height: 100px;
-  padding: 120px;  
-  border: 2px rgb(2, 0, 128);
-  margin-left: 450px;
-  margin-top: 40px;
-}
-.h1fd{
-    box-sizing: content-box;  
-  width: 532px;
-  height: 30px;
-  margin-left: -118px;
-  margin-top: -115px;
-  padding-bottom: 20px;
-  position: relative;
-  background-color:rgb(248, 246, 244) ;
-  
-}
-#titulo{
-    box-sizing: content-box;
-    margin-left: 50px;
-    margin-top: -37px;
+.h1fd {
     
+    width: auto;
+    height: 30px;
+    padding-bottom: 20px;
+    background-color: rgb(248, 246, 244);
+
 }
+
+#titulo {
+    box-sizing: content-box;
+    margin-top: auto;
+
+
+}
+
 #puntos {
     font-size: xx-large;
-    color: black;
-    margin-left: 510px;
-    margin-top: -50px;
+    color: rgb(125, 118, 118);
+    margin-right: auto;
+
 }
-#coment{
-    box-sizing: content-box;  
-    width: 527px;
+
+#coment {
+    box-sizing: content-box;
+    width: auto;
     height: 160px;
-     margin-top: 363px;
-     padding-bottom: 45px;
-     padding-top: 10px;
-     margin-left: 0px;
-     padding-left: 5px;
-    background-color:rgb(248, 246, 244) ;
+    padding-bottom: 45px;
+    padding-top: 10px;
+    padding-left: 5px;
+    text-align: left;
+    background-color: rgb(248, 246, 244);
 }
 
 #img1 {
-    object-fit:fill;
-    box-sizing: content-box;
-    width: 532px;
-    height: 360px;
-    margin-top: 0px;
-    margin-left: -118px;
+    object-fit: fill;
+    width: auto;
+    height: 300px;
+    
 }
-.iconoinsta{
+
+.iconoinsta {
     font-size: xx-large;
-color:black;
-margin-left: 10px;
-padding-top: 7px;
+    color: black;
+
 }
-.iconoscoment{
+
+.iconoscoment {
     display: flex;
-    font-size:x-large;
+    font-size: x-large;
     letter-spacing: 7px;
     margin-left: 4px;
-    
-    
+
+
 }
-#corazon{
+
+#corazon {
     color: rgb(172, 10, 10);
 }
+
 #save {
-   
-   margin-left: 400px;
+    padding-left: 75%;
 }
-#textcoment{
-    margin-left: 10px;
-    margin-right: 10px;
-}
+
