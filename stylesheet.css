@@ -1,18 +1,19 @@
 body {
     background-color: rgb(8, 7, 7);
+    display: flex;
+    align-content: center;
     
 }
 
 .principal {
-    margin: auto;
-    width: 35%;
+    width: 550px;
+
 
 }
 
 .h1fd {
     box-sizing: content-box;
     width: auto;
-    height: 50px;
     background-color: rgb(248, 246, 244);
 
 }
